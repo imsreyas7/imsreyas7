@@ -49,8 +49,15 @@ Looking forward to  developing real-world solutions in these fields. <br>
 ## Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas7&&theme=dark&show_icons=true&locale=en&layout=compact" alt="sreyas" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&&theme=dark&show_icons=true&locale=en" alt="shivanirudh" /></p>
+-->
 
-
-⚡ Fun fact: I'm a sports enthusiast and keep myself up to date on most of the major leagues.
-
+## ⚡ My Other Interests  
+   I'm a sports enthusiast and keep myself up to date on most of the major leagues.
+   :soccer: :tennis: :cricket: :basketball: :badminton: :video_game:
+   An avid quizzer and debator.
+   Books, Music and Movies are therapy.
+   
+   
+   
