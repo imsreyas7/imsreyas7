@@ -46,6 +46,14 @@ Looking forward to  developing real-world solutions in these fields. <br>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
+## ⚡ My Other Interests  
+<p><br>
+   I'm a sports enthusiast and keep myself up to date on most of the major leagues. <br>
+   :soccer: :tennis: :cricket: :basketball: :badminton: :video_game: <br>
+   An avid quizzer and debator. <br>
+   Books, Music and Movies are therapy.
+ </p>
+
 ## Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas7&&theme=dark&show_icons=true&locale=en&layout=compact" alt="sreyas" /><br></p>
 
@@ -53,12 +61,6 @@ Looking forward to  developing real-world solutions in these fields. <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&&theme=dark&show_icons=true&locale=en" alt="shivanirudh" /></p>
 -->
 
-<h3><br> ⚡ My Other Interests</h3>  
-<p><br>
-   I'm a sports enthusiast and keep myself up to date on most of the major leagues. <br>
-   :soccer: :tennis: :cricket: :basketball: :badminton: :video_game: <br>
-   An avid quizzer and debator. <br>
-   Books, Music and Movies are therapy.
- </p>
+
    
    
