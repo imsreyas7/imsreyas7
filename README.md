@@ -54,10 +54,11 @@ Looking forward to  developing real-world solutions in these fields. <br>
 -->
 
 <h3><br> ⚡ My Other Interests</h3>  
-   I'm a sports enthusiast and keep myself up to date on most of the major leagues.
-   :soccer: :tennis: :cricket: :basketball: :badminton: :video_game:
-   An avid quizzer and debator.
+<p><br>
+   I'm a sports enthusiast and keep myself up to date on most of the major leagues. <br>
+   :soccer: :tennis: :cricket: :basketball: :badminton: :video_game: <br>
+   An avid quizzer and debator. <br>
    Books, Music and Movies are therapy.
-   
+ </p>
    
    
