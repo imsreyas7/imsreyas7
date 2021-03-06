@@ -1,8 +1,5 @@
 <h1 align="center"> Hey there 👋 I'm Sreyas Venkataramanan </h1>
 
-<!--
-**imsreyas7/imsreyas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align = "center">
  <a href="mailto:sreyasv13@gmail.com">
   <img align="center" alt="Sreyas' Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
@@ -53,6 +50,5 @@ Looking forward to  developing real-world solutions in these fields. <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&&theme=dark&show_icons=true&locale=en" alt="shivanirudh" /></p>
 
 
-
--⚡ Fun fact: I'm also a sports enthusiast and keep myself up to date on most of the major leagues.
+⚡ Fun fact: I'm also a sports enthusiast and keep myself up to date on most of the major leagues.
 
