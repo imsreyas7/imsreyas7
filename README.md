@@ -2,22 +2,22 @@
 
 <p align = "center">
  <a href="mailto:sreyasv13@gmail.com">
-  <img align="center" alt="Sreyas' Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="center" alt="Sreyas' Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sreyas-venkataramanan/">
-  <img align="center" alt="Sreyas' LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="center" alt="Sreyas' LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/imsreyas7">
-  <img align="center" alt="Sreyas' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Sreyas' Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/imsreyas_7/">
-  <img align="center" alt="Sreyas' Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <img align="center" alt="Sreyas' Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/imsreyas.7/">
-  <img align="center" alt="Sreyas' Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  <img align="center" alt="Sreyas' Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/imsreyas_7">
-  <img align="center" alt="Sreyas' Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <img align="center" alt="Sreyas' Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 </p>
 
@@ -38,7 +38,7 @@ Looking forward to  developing real-world solutions in these fields. <br>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -50,5 +50,5 @@ Looking forward to  developing real-world solutions in these fields. <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&&theme=dark&show_icons=true&locale=en" alt="shivanirudh" /></p>
 
 
-⚡ Fun fact: I'm also a sports enthusiast and keep myself up to date on most of the major leagues.
+⚡ Fun fact: I'm a sports enthusiast and keep myself up to date on most of the major leagues.
 
