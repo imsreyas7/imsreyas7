@@ -49,7 +49,7 @@ Looking forward to  developing real-world solutions in these fields. <br>
 ## My Other Interests ⚡ 
 <p>
    I'm a sports enthusiast and keep myself up to date on most of the major leagues. <br>
-   :soccer: :tennis: :cricket_game: :basketball: :badminton: :video_game: <br>
+   :soccer: :tennis: :cricket_game: :basketball: :badminton:  <br>
    An avid quizzer and debator. <br>
    Books, Music and Movies are therapy.
  </p>
