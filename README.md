@@ -21,6 +21,8 @@
 </a>
 </p>
 
+![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=green)&nbsp;
+
 ## About Me 
 
 <strong>Computer Science</strong> undergrad student at <strong>SSN College of Engineering</strong>. <br>
