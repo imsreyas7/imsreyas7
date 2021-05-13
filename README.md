@@ -21,7 +21,6 @@
 </a>
 </p>
 
-![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=blue)&nbsp;
 
 ## About Me 
 
@@ -57,6 +56,8 @@ Looking forward to  developing real-world solutions in these fields. <br>
  </p>
 
 ## Github Stats:
+![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=blue)&nbsp;
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas7&&theme=dark&show_icons=true&locale=en&layout=compact" alt="sreyas" /><br></p>
 
 <!--
