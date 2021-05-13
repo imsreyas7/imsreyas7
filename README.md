@@ -21,7 +21,7 @@
 </a>
 </p>
 
-![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=green)&nbsp;
+![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=black)&nbsp;
 
 ## About Me 
 
