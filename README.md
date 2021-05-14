@@ -10,12 +10,6 @@
 <a href="https://github.com/imsreyas7">
   <img align="center" alt="Sreyas' Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/imsreyas_7/">
-  <img align="center" alt="Sreyas' Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/imsreyas.7/">
-  <img align="center" alt="Sreyas' Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-</a>&nbsp;&nbsp;
 <a href="https://twitter.com/imsreyas_7">
   <img align="center" alt="Sreyas' Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
