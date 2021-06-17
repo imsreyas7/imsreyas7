@@ -57,6 +57,7 @@ Looking forward to  developing real-world solutions in these fields. <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas7&&theme=dark&show_icons=true&locale=en&layout=compact" alt="sreyas" /><br></p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&count_private=true&show_icons=true&theme=dark" alt="Sreyas' GitHub Stats" />
 
 
 
