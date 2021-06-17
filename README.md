@@ -59,7 +59,7 @@ Looking forward to  developing real-world solutions in these fields. <br>
 
 <br>
 
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&count_private=true&show_icons=true&theme=dark" alt="Sreyas' GitHub Stats" /><br></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&count_private=true&show_icons=true&theme=dark" alt="Sreyas' GitHub Stats" /><br>
 
 
 
