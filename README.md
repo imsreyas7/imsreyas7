@@ -20,7 +20,9 @@
 
 <strong>Computer Science</strong> undergrad student at <strong>SSN College of Engineering</strong>. <br>
 Interested in Deep Learning, Web Development and Software Development. <br>
-Looking forward to  developing real-world solutions in these fields. <br>
+Looking forward to  developing real-world solutions in these fields and contributing to Open Source projects. <br>
+
+Currently working on DApp(s) with Ethereum Blockchain.
 
 ## Languages and Tools :computer:
 
