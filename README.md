@@ -54,13 +54,10 @@ Looking forward to  developing real-world solutions in these fields. <br>
 ## Github Stats:
 ![View Counter](https://komarev.com/ghpvc/?username=imsreyas7&color=blue)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas7&&theme=dark&show_icons=true&locale=en&layout=compact" alt="sreyas" /><br></p>
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsreyas7&count_private=true&show_icons=true&theme=dark" alt="Sreyas' GitHub Stats" /><br>
-
-
+<a href="https://github.com/imsreyas7">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nive927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nive927&layout=compact&langs_count=8&theme=tokyonight"/>
+    </a>
 
    
    
